@@ -40,13 +40,13 @@
 	<key>PayloadDisplayName</key>
 	<string>AliDNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.alibaba-https</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>C3831A20-5904-49E8-B331-178DC5B6D306</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

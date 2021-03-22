@@ -40,13 +40,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Canadian Shield DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.canadianshield-private-https</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>32E01895-86AB-40AE-ACD2-4460D584EA35</string>
+	<string>B6D4F53E-3DA0-4F2E-8C6E-456ABDFDEBCE</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

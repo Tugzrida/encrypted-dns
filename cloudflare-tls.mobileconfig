@@ -40,13 +40,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Cloudflare DNS over TLS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.cloudflare-tls</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>32E01895-86AB-40AE-ACD2-4460D584EA35</string>
+	<string>0605D380-F2D8-4C1C-AFFB-CC98CE92DCA1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
